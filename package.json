@@ -1,0 +1,25 @@
+{
+  "name": "tame-of-thrones",
+  "version": "0.0.2",
+  "description": "Implementation for https://www.geektrust.in/api/pdf/open/PS5",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "lodash": "^4.17.10",
+    "rxjs": "^6.0.0-beta.4",
+    "youch": "^2.0.7",
+    "youch-terminal": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "one": "node index.js One",
+    "two": "node index.js Two"
+  },
+  "keywords": [
+    "game",
+    "geektrust"
+  ],
+  "author": "Kuldeep Anand (@mcraz)",
+  "license": "ISC"
+}
